@@ -1,0 +1,10 @@
+<h1>Questions</h1>
+
+<ul>
+  <%- @questions.each do |question| %>
+    <li>
+      <%= question.question %>
+      <%= question.options[question.answer] %>
+    </li>
+  <% end %>
+</ul>

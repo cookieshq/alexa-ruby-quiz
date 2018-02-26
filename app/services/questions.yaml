@@ -1,0 +1,901 @@
+---
+- !ruby/object:Question
+  id: 0
+  question: A flashing red traffic light signifies that a driver should do what?
+  answer: 1
+  options:
+    1: stop
+    2: speed up
+    3: proceed with caution
+    4: honk the horn
+- !ruby/object:Question
+  id: 2
+  question: A knish is traditionally stuffed with what filling?
+  answer: 1
+  options:
+    1: potato
+    2: creamed corn
+    3: lemon custard
+    4: raspberry jelly
+- !ruby/object:Question
+  id: 1
+  question: A pita is a type of what?
+  answer: 2
+  options:
+    1: fresh fruit
+    2: flat bread
+    3: French tart
+    4: friend bean dip
+- !ruby/object:Question
+  id: 4
+  question: A portrait that comically exaggerates a person's physical traits is called a what?
+  answer: 2
+  options:
+    1: landscape
+    2: caricature
+    3: still life
+    4: Impressionism
+- !ruby/object:Question
+  id: 5
+  question: A second-year college student is usually called a what?
+  answer: 1
+  options:
+    1: sophomore
+    2: senior
+    3: 'freshman '
+    4: 'junior '
+- !ruby/object:Question
+  id: 6
+  question: A student who earns a J.D. can begin his or her career as a what?
+  answer: 1
+  options:
+    1: lawyer
+    2: bricklayer
+    3: doctor
+    4: accountant
+- !ruby/object:Question
+  id: 7
+  question: A triptych is a work of art that is painted on how many panels?
+  answer: 2
+  options:
+    1: two
+    2: three
+    3: five
+    4: eight
+- !ruby/object:Question
+  id: 8
+  question: According to a famous line from the existentialist play 'No Exit' what is hell?
+  answer: 2
+  options:
+    1: oneself
+    2: other people
+    3: little made large
+    4: hued in green and blue
+- !ruby/object:Question
+  id: 9
+  question: According to a popular slogan, what state should people not 'mess with'?
+  answer: 2
+  options:
+    1: New York
+    2: Texas
+    3: Montana
+    4: Rhode Island
+- !ruby/object:Question
+  id: 10
+  question: According to a Yale University study, what smell is the most recognizable to American adults?
+  answer: 4
+  options:
+    1: tuna
+    2: laundry
+    3: popcorn
+    4: coffee
+- !ruby/object:Question
+  id: 11
+  question: According to folklore, the 'jackalope' is an antlered version of what animal?
+  answer: 2
+  options:
+    1: chicken
+    2: rabbit
+    3: moose
+    4: snake
+- !ruby/object:Question
+  id: 12
+  question: According to Greek mythology, who was Apollo's twin sister?
+  answer: 2
+  options:
+    1: Aphrodite
+    2: Artemis
+    3: Venus
+    4: Athena
+- !ruby/object:Question
+  id: 13
+  question: According to legend, if you give someone the 'evil eye' what are you doing?
+  answer: 1
+  options:
+    1: cursing them
+    2: blessing a child
+    3: counting money
+    4: passing time
+- !ruby/object:Question
+  id: 14
+  question: According to legend, in what country are you most likely to meet a leprechaun?
+  answer: 1
+  options:
+    1: Ireland
+    2: Poland
+    3: Greenland
+    4: Scotland
+- !ruby/object:Question
+  id: 15
+  question: According to the American Kennel Club, what is the most popular breed of dog in the US as of 1999?
+  answer: 4
+  options:
+    1: Poodle
+    2: Beagle
+    3: German shepherd
+    4: Labrador retriever
+- !ruby/object:Question
+  id: 16
+  question: According to the Bible, Moses and Aaron had a sister named what?
+  answer: 4
+  options:
+    1: Jochebed
+    2: Ruth
+    3: Leah
+    4: Miriam
+- !ruby/object:Question
+  id: 17
+  question: According to the children's nursery rhyme, what type of ocean did Columbus sail in 1492?
+  answer: 2
+  options:
+    1: calm
+    2: blue
+    3: windy
+    4: really big
+- !ruby/object:Question
+  id: 18
+  question: According to the Mother Goose nursery rhyme, which child is full of woe?
+  answer: 2
+  options:
+    1: Monday's child
+    2: Wednesday's child
+    3: Thursday's child
+    4: Saturday's child
+- !ruby/object:Question
+  id: 19
+  question: According to the popular saying, what should you do 'when in Rome'?
+  answer: 3
+  options:
+    1: watch your wallet
+    2: see the Coliseum
+    3: as the Romans do
+    4: don't drink the water
+- !ruby/object:Question
+  id: 20
+  question: According to the proverb, necessity is the mother of what?
+  answer: 1
+  options:
+    1: Invention
+    2: Luck
+    3: Problems
+    4: Procrastination
+- !ruby/object:Question
+  id: 21
+  question: According to the title of a popular children's TV show, what color is Bear's big house?
+  answer: 4
+  options:
+    1: red
+    2: green
+    3: purple
+    4: blue
+- !ruby/object:Question
+  id: 22
+  question: According to the USDA, which food group should you eat the most servings of per day?
+  answer: 4
+  options:
+    1: vegetables
+    2: dairy
+    3: meats
+    4: breads
+- !ruby/object:Question
+  id: 23
+  question: Ada Lovelace is credited with being the first person to have made what?
+  answer: 1
+  options:
+    1: a computer program
+    2: a souffle
+    3: a brassiere
+    4: a mystery novel
+- !ruby/object:Question
+  id: 24
+  question: After Prince Charles, who is next in line to be the king of England?
+  answer: 1
+  options:
+    1: Prince William
+    2: Prince Andrew
+    3: Prince Edward
+    4: Fresh Prince
+- !ruby/object:Question
+  id: 25
+  question: An airplane's black box is usually what color?
+  answer: 3
+  options:
+    1: black
+    2: white
+    3: orange
+    4: purple
+- !ruby/object:Question
+  id: 26
+  question: As of 1999, which state has the most Girl Scouts?
+  answer: 1
+  options:
+    1: California
+    2: Illinois
+    3: New York
+    4: Pennsylvania
+- !ruby/object:Question
+  id: 27
+  question: Astronaut John Glenn served as a pilot in what branch of the military?
+  answer: 3
+  options:
+    1: Army
+    2: Air Force
+    3: Marines
+    4: Navy
+- !ruby/object:Question
+  id: 28
+  question: At the equator, how fast is the earth's surface turning?
+  answer: 3
+  options:
+    1: about 100 miles per hour
+    2: about 500 miles per hour
+    3: about 1000 miles per hour
+    4: about 2000 miles per hour
+- !ruby/object:Question
+  id: 29
+  question: At what age can someone first attend an R-rated movie without an accompanying adult?
+  answer: 3
+  options:
+    1: '15'
+    2: '17'
+    3: '18'
+    4: '21'
+- !ruby/object:Question
+  id: 30
+  question: Backgammon is a how many player game?
+  answer: 1
+  options:
+    1: Two
+    2: Three
+    3: Four
+    4: Six
+- !ruby/object:Question
+  id: 31
+  question: Before he went into coaching, Phil Jackson played for which of the following NBA teams?
+  answer: 3
+  options:
+    1: Boston Celtics
+    2: Los Angeles Lakers
+    3: New York Knicks
+    4: Philadelphia 76ers
+- !ruby/object:Question
+  id: 32
+  question: By what name is Bob Keeshan better known?
+  answer: 3
+  options:
+    1: Bozo the Clown
+    2: Pee Wee Herman
+    3: Captain Kangaroo
+    4: Buffalo Bob
+- !ruby/object:Question
+  id: 33
+  question: By what collective name do Christians refer to God the Father, God the Son and the Holy Ghost?
+  answer: 4
+  options:
+    1: the Trio
+    2: the Troika
+    3: the Triumvirate
+    4: the Trinity
+- !ruby/object:Question
+  id: 34
+  question: By what nickname is the Federal National Mortgage Association known?
+  answer: 4
+  options:
+    1: Morty
+    2: FEMA
+    3: Freddie Mac
+    4: Fannie Mae
+- !ruby/object:Question
+  id: 35
+  question: Cheddar cheese got its name from a village in what country?
+  answer: 1
+  options:
+    1: England
+    2: France
+    3: Switzerland
+    4: Denmark
+- !ruby/object:Question
+  id: 36
+  question: Cheese is a necessary ingredient in which of these dishes?
+  answer: 3
+  options:
+    1: sushi
+    2: french fries
+    3: veal parmigiano
+    4: chicken pot pie
+- !ruby/object:Question
+  id: 37
+  question: During what war did Francis Scott Key write the words to 'The Star-Spangled Banner'?
+  answer: 2
+  options:
+    1: American Revolution
+    2: War of 1812
+    3: Civil War
+    4: World War I
+- !ruby/object:Question
+  id: 38
+  question: During which war did US troops fight the Battle of New Orleans?
+  answer: 4
+  options:
+    1: American Revolution
+    2: Civil War
+    3: Mexican War
+    4: War of 1812
+- !ruby/object:Question
+  id: 39
+  question: Each year in pro baseball, the player voted as the best fielder at his position wins what?
+  answer: 2
+  options:
+    1: a brand new car
+    2: the Gold Glove
+    3: the Silver Bat
+    4: the Brass Baseball
+- !ruby/object:Question
+  id: 40
+  question: Elephant tusks are made of what material?
+  answer: 2
+  options:
+    1: coral
+    2: ivory
+    3: bone
+    4: calcium
+- !ruby/object:Question
+  id: 41
+  question: Excluding wisdom teeth, how many adult teeth do humans have?
+  answer: 1
+  options:
+    1: '28'
+    2: '32'
+    3: '35'
+    4: '40'
+- !ruby/object:Question
+  id: 42
+  question: For a man and woman on a date, 'dutch treat' means what?
+  answer: 4
+  options:
+    1: the man pays
+    2: the woman pays
+    3: the Dutch pay
+    4: each pays their own way
+- !ruby/object:Question
+  id: 43
+  question: For what purpose would you use an awl?
+  answer: 3
+  options:
+    1: to shoot ducks
+    2: to polish floors
+    3: to make holes
+    4: to weigh fruit
+- !ruby/object:Question
+  id: 44
+  question: From 1971 to 1997, the Democratic Republic of Congo was known as what?
+  answer: 1
+  options:
+    1: Zaire
+    2: Angola
+    3: Rhodesia
+    4: Belgian Congo
+- !ruby/object:Question
+  id: 45
+  question: From what language does the term 'R.S.V.P.' originate?
+  answer: 4
+  options:
+    1: Russian
+    2: Italian
+    3: Portuguese
+    4: French
+- !ruby/object:Question
+  id: 46
+  question: From whom does the Lutheran Church get its name?
+  answer: 2
+  options:
+    1: Martin Luther King Jr
+    2: Martin Luther
+    3: Luther Vandross
+    4: Lex Luthor
+- !ruby/object:Question
+  id: 47
+  question: Gerry Adams is the president of what organization?
+  answer: 3
+  options:
+    1: Greenpeace
+    2: NASCAR
+    3: Sinn Fein
+    4: PLO
+- !ruby/object:Question
+  id: 48
+  question: Girls of what religious community traditionally wear bonnets?
+  answer: 1
+  options:
+    1: Amish
+    2: Sikh
+    3: Roman Catholic
+    4: Christian
+- !ruby/object:Question
+  id: 49
+  question: How are actors Charlie Sheen and Emilio Estevez related?
+  answer: 2
+  options:
+    1: they're cousins
+    2: they're brothers
+    3: they're father and son
+    4: they're uncle and nephew
+- !ruby/object:Question
+  id: 50
+  question: How do you express 3/4 as a decimal?
+  answer: 3
+  options:
+    1: ".25"
+    2: ".50"
+    3: ".75"
+    4: ".90"
+- !ruby/object:Question
+  id: 51
+  question: How is 4:00 pm expressed in military time?
+  answer: 1
+  options:
+    1: '1600'
+    2: '004'
+    3: '0400 '
+    4: '4:00'
+- !ruby/object:Question
+  id: 52
+  question: How is the Arabic numeral for '2' written?
+  answer: 1
+  options:
+    1: '2'
+    2: II
+    3: I
+    4: ii
+- !ruby/object:Question
+  id: 53
+  question: How is the word 'ambulance' normally written on the front of American ambulances?
+  answer: 2
+  options:
+    1: in French
+    2: in reverse
+    3: in braille
+    4: in gibberish
+- !ruby/object:Question
+  id: 54
+  question: How long is a single term in the US Senate?
+  answer: 3
+  options:
+    1: two years
+    2: four years
+    3: six years
+    4: eight years
+- !ruby/object:Question
+  id: 55
+  question: How long is the time on an NBA shot clock?
+  answer: 2
+  options:
+    1: 18 seconds
+    2: 24 seconds
+    3: 30 seconds
+    4: 35 seconds
+- !ruby/object:Question
+  id: 56
+  question: How many $100 bills does it take to equal one million dollars?
+  answer: 3
+  options:
+    1: one thousand
+    2: five thousand
+    3: ten thousand
+    4: one hundred thousand
+- !ruby/object:Question
+  id: 57
+  question: How many axles does a standard automobile have?
+  answer: 2
+  options:
+    1: one
+    2: two
+    3: four
+    4: eight
+- !ruby/object:Question
+  id: 58
+  question: How many digits are in a standard Visa credit card number?
+  answer: 3
+  options:
+    1: '12'
+    2: '15'
+    3: '16'
+    4: '20'
+- !ruby/object:Question
+  id: 59
+  question: How many eyes does a Giraffe have?
+  answer: 2
+  options:
+    1: one
+    2: two
+    3: three
+    4: four
+- !ruby/object:Question
+  id: 60
+  question: How many innings are there in a regular Major League Baseball game?
+  answer: 3
+  options:
+    1: seven
+    2: eight
+    3: nine
+    4: ten
+- !ruby/object:Question
+  id: 61
+  question: How many keys are on a standard piano?
+  answer: 3
+  options:
+    1: '20'
+    2: '54'
+    3: '88'
+    4: '100'
+- !ruby/object:Question
+  id: 62
+  question: How many men has actress Elizabeth Taylor been divorced from?
+  answer: 3
+  options:
+    1: five
+    2: six
+    3: seven
+    4: eight
+- !ruby/object:Question
+  id: 63
+  question: How many ounces are in a pound?
+  answer: 3
+  options:
+    1: '4'
+    2: '12'
+    3: '16'
+    4: '32'
+- !ruby/object:Question
+  id: 64
+  question: How many periods are there in an ice hockey game?
+  answer: 3
+  options:
+    1: One
+    2: Two
+    3: Three
+    4: Four
+- !ruby/object:Question
+  id: 65
+  question: How many quarts are there in a gallon?
+  answer: 4
+  options:
+    1: one
+    2: two
+    3: three
+    4: four
+- !ruby/object:Question
+  id: 66
+  question: How many ribs are there in the human body?
+  answer: 2
+  options:
+    1: '18'
+    2: '24'
+    3: '30'
+    4: '42'
+- !ruby/object:Question
+  id: 67
+  question: How many ships did Columbus set sail with on his initial voyage to the New World?
+  answer: 2
+  options:
+    1: Two
+    2: Three
+    3: Five
+    4: Ten
+- !ruby/object:Question
+  id: 68
+  question: How many spikes are on the Statue of Liberty's crown?
+  answer: 2
+  options:
+    1: five
+    2: seven
+    3: nine
+    4: thirteen
+- !ruby/object:Question
+  id: 69
+  question: How many stars are on the American flag?
+  answer: 3
+  options:
+    1: '13'
+    2: '48'
+    3: '50'
+    4: '51'
+- !ruby/object:Question
+  id: 70
+  question: How many states were in the Confederate States of America?
+  answer: 1
+  options:
+    1: '11'
+    2: '13'
+    3: '16'
+    4: '22'
+- !ruby/object:Question
+  id: 71
+  question: How much does Peanuts character Lucy charge for her psychiatric advice?
+  answer: 1
+  options:
+    1: 5 cents
+    2: 10 cents
+    3: 75 cents
+    4: "$125"
+- !ruby/object:Question
+  id: 72
+  question: How long is Hanukkah?
+  answer: 3
+  options:
+    1: one day
+    2: five days
+    3: eight days
+    4: two weeks
+- !ruby/object:Question
+  id: 73
+  question: Huffy, Schwinn and Raleigh are all brands of what?
+  answer: 4
+  options:
+    1: sportswear
+    2: dishwashers
+    3: cigarettes
+    4: bicycles
+- !ruby/object:Question
+  id: 74
+  question: If a business files under Chapter 11 what is it doing?
+  answer: 1
+  options:
+    1: declaring bankruptcy
+    2: selling stock
+    3: buying a smaller
+    4: company suing the government
+- !ruby/object:Question
+  id: 75
+  question: If a piece of music is in 'common time' how many quarter notes are there per measure?
+  answer: 2
+  options:
+    1: one
+    2: four
+    3: five
+    4: ten
+- !ruby/object:Question
+  id: 76
+  question: If a ring has the number 925 stamped into it, it is most likely made of what material?
+  answer: 4
+  options:
+    1: platinum
+    2: gold
+    3: steel
+    4: silver
+- !ruby/object:Question
+  id: 77
+  question: If Christmas Day is on a Saturday, then the following New Year's Day falls on what day of the week?
+  answer: 4
+  options:
+    1: Sunday
+    2: Monday
+    3: Friday
+    4: Saturday
+- !ruby/object:Question
+  id: 78
+  question: If someone has cataracts, what part of their body might need an operation?
+  answer: 3
+  options:
+    1: ear
+    2: hand
+    3: eye
+    4: knee
+- !ruby/object:Question
+  id: 79
+  question: If you are 'riding fakie' inside a 'half pipe' what are you probably doing?
+  answer: 3
+  options:
+    1: skiing
+    2: biking
+    3: snowboarding
+    4: surfing
+- !ruby/object:Question
+  id: 80
+  question: If you are truly afraid of the dark, what do you suffer from?
+  answer: 4
+  options:
+    1: hypnophobia
+    2: cryptophobia
+    3: hadephobia
+    4: nyctophobia
+- !ruby/object:Question
+  id: 81
+  question: If you are watching a Shavian play, who is the author?
+  answer: 3
+  options:
+    1: Shakespeare
+    2: Aeschylus
+    3: George Bernard Shaw
+    4: Anton Chekhov
+- !ruby/object:Question
+  id: 82
+  question: If you ask for 'gai' at a Thai restaurant, what will you get?
+  answer: 2
+  options:
+    1: shrimp
+    2: chicken
+    3: beef
+    4: pork
+- !ruby/object:Question
+  id: 83
+  question: If you dial '411' on a telephone, who are you calling?
+  answer: 3
+  options:
+    1: the police
+    2: the White House
+    3: directory assistance
+    4: Moviefone
+- !ruby/object:Question
+  id: 84
+  question: If you have a 'sawbuck' how much money do you have?
+  answer: 3
+  options:
+    1: "$1"
+    2: "$5"
+    3: "$10"
+    4: "$20"
+- !ruby/object:Question
+  id: 85
+  question: If you work as a 'dolly grip' what business are you in?
+  answer: 2
+  options:
+    1: sheep farming
+    2: film production
+    3: construction
+    4: moving
+- !ruby/object:Question
+  id: 86
+  question: In 1909, Frederick Cook claimed to be the first explorer to reach what location?
+  answer: 4
+  options:
+    1: Mount Everest
+    2: Bermuda Triangle
+    3: Atlantis
+    4: North Pole
+- !ruby/object:Question
+  id: 87
+  question: In 1926, the Harlem Globetrotters basketball team was formed in what city?
+  answer: 3
+  options:
+    1: Boston
+    2: Philadelphia
+    3: Chicago
+    4: New York City
+- !ruby/object:Question
+  id: 88
+  question: In 1960, Nazi official Adolph Eichmann was finally captured in what country?
+  answer: 3
+  options:
+    1: Brazil
+    2: East Germany
+    3: Argentina
+    4: Paraguay
+- !ruby/object:Question
+  id: 89
+  question: In 1978, who became the youngest jockey ever to win horse racing's triple crown?
+  answer: 2
+  options:
+    1: Jerry Bailey
+    2: Steve Cauthen
+    3: Willie Shoemaker
+    4: Pasquale Devito
+- !ruby/object:Question
+  id: 90
+  question: In 1986, Libyan leader Muammar Qaddafi drew a so-called 'Line of Death' over what body of water?
+  answer: 1
+  options:
+    1: Gulf of Sidra
+    2: Gulf of Oman
+    3: Red Sea
+    4: Persian Gulf
+- !ruby/object:Question
+  id: 91
+  question: In a game with no wild cards, what is the highest possible poker hand?
+  answer: 2
+  options:
+    1: straight flush
+    2: royal flush
+    3: full house
+    4: four of a kind
+- !ruby/object:Question
+  id: 92
+  question: In America, what is the main ingredient in pepperoni?
+  answer: 4
+  options:
+    1: fish
+    2: pepper
+    3: wheat
+    4: meat
+- !ruby/object:Question
+  id: 93
+  question: In American football, how many points is a touchdown worth?
+  answer: 3
+  options:
+    1: two
+    2: three
+    3: six
+    4: seven
+- !ruby/object:Question
+  id: 94
+  question: In an adult human, how long is the large intestine?
+  answer: 2
+  options:
+    1: one foot
+    2: five feet
+    3: twelve feet
+    4: twenty feet
+- !ruby/object:Question
+  id: 95
+  question: In baseball, how many balls make a walk?
+  answer: 4
+  options:
+    1: one
+    2: two
+    3: three
+    4: four
+- !ruby/object:Question
+  id: 96
+  question: In bowling, how many pins must you knock down to get a strike?
+  answer: 3
+  options:
+    1: zero
+    2: '8'
+    3: '10'
+    4: '12'
+- !ruby/object:Question
+  id: 97
+  question: In British currency, how many pence make a pound?
+  answer: 2
+  options:
+    1: '10'
+    2: '100'
+    3: '500'
+    4: '1000'
+- !ruby/object:Question
+  id: 98
+  question: In computer terminology, what does the acronym 'FTP' stand for?
+  answer: 1
+  options:
+    1: file transfer protocol
+    2: full time portal
+    3: full text processor
+    4: free to print
+- !ruby/object:Question
+  id: 99
+  question: In computer terminology, what does the acronym 'ISP' stand for?
+  answer: 4
+  options:
+    1: Individual Site Privacy
+    2: Investment Stability Plan
+    3: Internal Security Position
+    4: Internet Service Provider
+- !ruby/object:Question
+  id: 100
+  question: In cooking, the term 'au gratin' is sometimes used to describe a dish with what topping?
+  answer: 1
+  options:
+    1: cheese
+    2: fruit
+    3: gravy
+    4: whipped cream
